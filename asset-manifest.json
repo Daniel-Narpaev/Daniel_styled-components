@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Daniel_styled-components/static/css/main.5f095b1f.css",
+    "main.js": "/Daniel_styled-components/static/js/main.01124ad7.js",
+    "static/js/787.d0426f65.chunk.js": "/Daniel_styled-components/static/js/787.d0426f65.chunk.js",
+    "index.html": "/Daniel_styled-components/index.html",
+    "main.5f095b1f.css.map": "/Daniel_styled-components/static/css/main.5f095b1f.css.map",
+    "main.01124ad7.js.map": "/Daniel_styled-components/static/js/main.01124ad7.js.map",
+    "787.d0426f65.chunk.js.map": "/Daniel_styled-components/static/js/787.d0426f65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f095b1f.css",
+    "static/js/main.01124ad7.js"
+  ]
+}
